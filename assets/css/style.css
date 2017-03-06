@@ -1,0 +1,52 @@
+.main-title {
+	background-color: #092c66;
+	color: white;
+}
+
+.main-title a {
+	color: #a5a30d;
+	text-decoration: none;
+}
+
+.main-title a:hover {
+	color: white;
+}
+
+.main-nav {
+	margin-top: 4%;
+}
+
+.main-nav li {
+	color: #a5a30d;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+.plan-title p {
+	text-align: right;
+	color: #08d173;
+	margin-bottom: -2%;
+}
+
+.main-item {
+	background-color: #092c66;
+	border: 10px solid white;
+	border-radius: 15px;
+	font-size: 16px;
+	min-height: 125px;
+}
+
+.main-item:hover {
+	cursor: pointer;
+	background-color: #0c48af;
+}
+
+.main-item p{
+	margin-top: 18%;
+	color: white
+}
+
+footer {
+	margin: 2%;
+	text-align: right;
+}
